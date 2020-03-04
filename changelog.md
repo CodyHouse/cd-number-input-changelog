@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.2] - 2020-03-04
+- Emit 'change' event when clicking the custom increment buttons
+
 ## [1.0.1] - 2020-01-23
 - Prevent automatic form submition when changing input value
 
