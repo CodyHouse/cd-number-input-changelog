@@ -1,6 +1,9 @@
 # Changelog
 All notable changes to this component will be documented in this file.
 
+## [1.0.4] - 2020-11-16
+- Added type attribute to button elements
+
 ## [1.0.3] - 2020-03-18
 - Improve accessibility for blind keyboard-only users
 
